@@ -5,8 +5,7 @@
 - [x] LB450-Teilauftrag 1
 - [x] LB450-Teilauftrag 2
 - [x] LB450 Bugfixes im code
-- [x] Beenden der [Lottery](https://library.m0unt41n.ch/challenges/lottery) CTF challenge
-      (^ Siehe main.py)
+- [x] Beenden der [Lottery](https://library.m0unt41n.ch/challenges/lottery) CTF challenge (main.py)
 
 #### Gelerntes
 Testkonzept
