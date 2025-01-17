@@ -29,7 +29,5 @@ Connection strings erstellen (C#-API mit Datenbank)
 .gitignore Dateien schreiben
 Git Grundlagen repetiert (init, clone, add, commit, push, pull)
 
-## Schwierigkeiten
-Es dauerte lange, den Connection string richtig hinzubringen, aber jetzt funktioniert soweit alles. (noch)
-
 #### Schwierigkeiten
+Es dauerte lange, den Connection string richtig hinzubringen, aber jetzt funktioniert soweit alles. (noch)
