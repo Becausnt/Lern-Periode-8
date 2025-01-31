@@ -50,3 +50,16 @@ Es dauerte lange, den Connection string richtig hinzubringen, aber jetzt funktio
 
 #### Schwierigkeiten
 Mit MEmu hatte ich Schwierigkeiten, die ADB zu verbinden. Dies konnte ich aber durch die Entwickler- und Netzwerkeinstellungen des Geräts/Emulators fixen. Ansonsten hatte ich noch nicht gross Schwierigkeiten, aber dies sind auch erst mal nur die Grundlagen. Ein richtiges Projekt habe ich auch noch nicht so recht.
+
+## 31/01/2025
+### Arbeitspakete
+- [ ] LA_347_0047_GA_MovieWebsite
+- [x] AM_347_5062_DockerfileBestPractice
+
+#### Gelerntes
+- Repetition docker-compose
+- Docker netzwerke erstellen
+- Docker Docker env dateien
+
+#### Schwierigkeiten
+Meine env-Datei `movie.env` wurde nicht gelesen, aber dies ist offenbar, da normalerweise nach einer Datei namens `.env` gesucht wird und nicht nach `*.env`. Diesen Fehler habe ich nun aber behoben. Ansonsten habe ich nur das Problem, dass meine Docker-Fähigkeiten noch nicht gut genug sind. Ich weiss nicht wirklich was ich wie machen sollte, also ist es ein ständiges Präsentationen-durchsuchen. Deshalb bin ich auch mit dem Auftrag noch nicht fertig geworden. Aber der Auftrag war auch noch eine gute auffrischung für alles was wir bisher durchgenommen haben.
